@@ -810,8 +810,5 @@ export const category301_400: Category = {
       { "german": "In den hohen Kosten liegt der Hund begraben.", "persian": "علت اصلی مشکلات در هزینه‌های بالاست." }
     ]
   }
-]
-
-
       ],
 };
