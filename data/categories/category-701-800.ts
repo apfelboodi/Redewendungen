@@ -725,7 +725,7 @@ export const category701_800: Category = {
         { "german": "Spiel نه موش و گربه با من!", "persian": "با من بازی نکن (من را بازی نده)!" },
         { "german": "Wir بازی کردیم موش و گربه تمام روز را.", "persian": "تمام روز را با هم کل‌کل و دنبال‌بازی کردیم." }
       ]
-    }
+    },
     {
       "id": 761,
       "german": "Einen Vogel haben",
