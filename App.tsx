@@ -178,7 +178,7 @@ function App() {
               </span>
               <input
                 type="text"
-                placeholder="جستجو در اصطلاحات آلمانی..."
+                placeholder="...جستجو در اصطلاحات آلمانی"
                 value={searchQuery}
                 onChange={handleSearchChange}
                 className="w-full pl-10 pr-10 py-3 border-2 border-slate-200 rounded-full shadow-sm focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-sky-500 transition-colors placeholder:text-right"
