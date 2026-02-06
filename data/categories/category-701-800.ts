@@ -365,7 +365,7 @@ export const category701_800: Category = {
         { "german": "Diese Musik geht mir auf den Keks.", "persian": "این آهنگ اعصاب مرا خرد می‌کند." },
         { "german": "Gehe من را روی بیسکویت نرو!", "persian": "روی مخ من نرو (کلافه‌ام نکن)!" }
       ]
-    }
+    },
     {
       "id": 731,
       "german": "Das ist mir Wurst",
